@@ -4,6 +4,6 @@
 
 |   📍 Progress Record    |
 |:-----------------------:|
-| [혼자 공부하는 컴퓨터 구조+운영체제]() |
-|         [1강]()          |
-|         [2강]()          |
+| 혼자 공부하는 컴퓨터 구조+운영체제 |
+|         [1강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/1.md)          |
+|         [2강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/2.md)          |
