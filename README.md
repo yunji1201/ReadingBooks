@@ -9,3 +9,4 @@
 | [2강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/2.md) |
 | [4강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/4.md) |
 | [5강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/5.md) |
+| [6강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/6.md) |
