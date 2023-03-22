@@ -11,3 +11,4 @@
 | [5강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/5.md) |
 | [6강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/6.md) |
 | [7강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/7.md) |
+| [8강](https://github.com/yunji1201/ReadingBooks/blob/main/computer/8.md) |
