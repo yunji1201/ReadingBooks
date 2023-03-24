@@ -9,3 +9,9 @@
 computer/6.md,7\d\7db2c50578a6aad953ef6dbabde2cf260eb084a1
 =
 computer/7.md,2\6\2612c3e1d920d875ec8c3906015c5492eed664b5
+=
+computer/3.md,f\2\f283be9f7c2c3f71993d62bdadd27dfe9b1a5f26
+=
+computer/1.md,c\1\c1b7e941ef46957b603e1587ffd490919b50f742
+=
+computer/8.md,b\2\b2d2295d45ad22844c8dd2092fbef1e41c3fe793
