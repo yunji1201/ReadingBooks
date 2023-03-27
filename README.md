@@ -17,3 +17,4 @@
 | 9강  | [CPU의 내부 구성 - ALU와 제어장치](https://github.com/yunji1201/ReadingBooks/blob/main/computer/9.md) |
 | 10강 | [CPU의 내부 구성 - 레지스터](https://github.com/yunji1201/ReadingBooks/blob/main/computer/10.md)     |
 | 11강 | [명령어 사이클과 인터럽트](https://github.com/yunji1201/ReadingBooks/blob/main/computer/11.md)         |
+| 12강 | [빠른 CPU를 위한 설계 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/12.md)      |
