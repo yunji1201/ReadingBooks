@@ -15,3 +15,7 @@
 computer/8.md,b\2\b2d2295d45ad22844c8dd2092fbef1e41c3fe793
 =
 computer/9.md,b\1\b10b6a180cfc561f045c3889090967a29b588c13
+=
+computer/6.md,7\d\7db2c50578a6aad953ef6dbabde2cf260eb084a1
+>
+computer/11.md,3\e\3ea8dce16cc561f505f246165cff1d97ee576c3c
