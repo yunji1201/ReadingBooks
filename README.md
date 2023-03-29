@@ -20,3 +20,4 @@
 | 12강 | [빠른 CPU를 위한 설계 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/12.md)      |
 | 13강 | [명령어 병렬 처리 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/13.md)          |
 | 14강 | [명령어 집합 구조, CISC와 RISC](https://github.com/yunji1201/ReadingBooks/blob/main/computer/14.md) |
+| 15강 | [RAM의 특성과 종류](https://github.com/yunji1201/ReadingBooks/blob/main/computer/15.md) |
