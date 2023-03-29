@@ -1,10 +1,13 @@
 # 『 ReadingBooks 』
 
-- 기술 서적 읽고 정리합니다 📖
+- 기술 서적을 읽고 정리합니다 📖
 
 ### 📍 Progress Record
 
-| 1️⃣ | 혼자 공부하는 컴퓨터 구조+운영체제                                                                         |
+<details>
+<summary> 혼자 공부하는 컴퓨터 구조 + 운영체제 </summary>
+
+| 1️⃣ | 혼자 공부하는 컴퓨터 구조 + 운영체제                                                                       |
 |:---:|---------------------------------------------------------------------------------------------|
 | 1강  | [컴퓨터 구조를 알아야 하는 이유](https://github.com/yunji1201/ReadingBooks/blob/main/computer/1.md)      |
 | 2강  | [컴퓨터 구조의 큰 그림](https://github.com/yunji1201/ReadingBooks/blob/main/computer/2.md)           |
@@ -20,4 +23,6 @@
 | 12강 | [빠른 CPU를 위한 설계 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/12.md)      |
 | 13강 | [명령어 병렬 처리 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/13.md)          |
 | 14강 | [명령어 집합 구조, CISC와 RISC](https://github.com/yunji1201/ReadingBooks/blob/main/computer/14.md) |
-| 15강 | [RAM의 특성과 종류](https://github.com/yunji1201/ReadingBooks/blob/main/computer/15.md) |
+| 15강 | [RAM의 특성과 종류](https://github.com/yunji1201/ReadingBooks/blob/main/computer/15.md)           |
+
+</details>
