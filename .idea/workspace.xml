@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/15.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_89.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f0da2ff070136d9584114cf28ae0ebf0057bf8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d74f5d0a0a364ae34b163ab2b79ad7eb4bf9d44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_97.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +83,9 @@
       <workItem from="1679614603713" duration="4070000" />
       <workItem from="1679872087656" duration="3780000" />
       <workItem from="1679958933692" duration="3405000" />
-      <workItem from="1680046093827" duration="2686000" />
+      <workItem from="1680046093827" duration="3313000" />
+      <workItem from="1680132802679" duration="176000" />
+      <workItem from="1680133011236" duration="5232000" />
     </task>
     <servers />
   </component>

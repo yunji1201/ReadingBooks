@@ -24,5 +24,6 @@
 | 13강 | [명령어 병렬 처리 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/13.md)          |
 | 14강 | [명령어 집합 구조, CISC와 RISC](https://github.com/yunji1201/ReadingBooks/blob/main/computer/14.md) |
 | 15강 | [RAM의 특성과 종류](https://github.com/yunji1201/ReadingBooks/blob/main/computer/15.md)           |
+| 16강 | [메모리의 주소 공간-물리 주소와 논리 주소](https://github.com/yunji1201/ReadingBooks/blob/main/computer/16.md)           |
 
 </details>
