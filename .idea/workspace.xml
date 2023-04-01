@@ -2,32 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/17_캐시메모리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_111.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/1_컴퓨터학습이유.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/10.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/10_레지스터.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/11.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/11_명령어사이클과인터럽트.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/12.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/12_빠른CPU설계기법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/13.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/13_명령어병렬처리기법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/14.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/14_명령어집합구조.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/15.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/15_RAM특성과종류.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/16.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/16_메모리주소공간.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/2_컴퓨터구조.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/3_컴퓨터핵심부품.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/4.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/4_0과1로숫자표현.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/5.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/5_0과1로문자표현.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/6.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/6_소스코드와명령어.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/7.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/7_명령어구조와주소지정방식.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/8.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/8_C언어의컴파일과정.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/9.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/9_ALU와제어장치.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/17_캐시메모리.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/17_캐시메모리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
