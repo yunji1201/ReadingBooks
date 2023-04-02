@@ -21,7 +21,7 @@
 
 ### 예시사진
 
-<img alt="img_58.png" src="img_58.png" width="500"/>
+<img alt="img_58.png" src="img/img_58.png" width="500"/>
 
 - 4.9 기가헤르츠 : 1초에 최대 49억번 반복한다는 소리
 
@@ -36,14 +36,14 @@
 
 ## 코어 (Core)
 
-<img alt="img_59.png" src="img_59.png" width="500"/>
+<img alt="img_59.png" src="img/img_59.png" width="500"/>
 
 - 현대적인 관점에서 'CPU'라는 용어를 재해석 해야 함
 - CPU 원래 뜻 : '명령어를 실행하는 부품' - 전통적으로, 원칙적으로 하.나.만. 존재
 - 그렇지만 오늘날 CPU에는 '명령어를 실행하는 부품'이 그림처럼 여러개 존재한다
 - 그리고 그 '명령어를 실행하는 부품'을 '코어'라는 용어로 사용
 
-<img alt="img_60.png" src="img_60.png" width="300"/>
+<img alt="img_60.png" src="img/img_60.png" width="300"/>
 
 > Q. 그럼 코어를 2개, 3개, 100개 늘리면 연산 속도도 비례해서 빨라지나??
 >
@@ -55,7 +55,7 @@
 
 ### (1) 하드웨어적 스레드
 
- <img alt="img_61.png" src="img_61.png" width="400"/>
+ <img alt="img_61.png" src="img/img_61.png" width="400"/>
 
 - 하나의 코어가 동시에 처리하는 명령어 단위
 - 이런걸 바로 '멀티스레드 프로세서', '멀티스레드 CPU'라고 한다
@@ -63,7 +63,7 @@
 
 ### (2) 소프트웨어적 스레드
 
- <img alt="img_62.png" src="img_62.png" width="400"/>
+ <img alt="img_62.png" src="img/img_62.png" width="400"/>
 
 - 하나의 프로그램에서 독립적으로 실행되는 단위
 - 예 : 워드프로그램 (화면에도 보여주고, 맞춤법도 검사하고, 수시로 저장하는걸 동시에 한다)
@@ -79,11 +79,11 @@
 - 이때, 그림처럼 하나의 코어가 여러개의 레지스터 세트를 가지고 있다면 멀티스레드 프로세스를 처리할 수 있다!
     - 예를들어, 레지스터 세트가 두 개라면 스택포인트도 두 개니까 두 개의 스택을 관리할 수 있는 것!
 
-<img alt="img_63.png" src="img_63.png" width="500"/>
+<img alt="img_63.png" src="img/img_63.png" width="500"/>
 
 - 하드웨어 스레드를 논리프로세서라고도 부름
 
-<img alt="img_64.png" src="img_64.png" width="500"/>
+<img alt="img_64.png" src="img/img_64.png" width="500"/>
 
 
 

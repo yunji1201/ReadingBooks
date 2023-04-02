@@ -6,7 +6,7 @@ Q. RAM이 크면 정확히 뭐가 좋을까? RAM 종류에는 모가 있을까?
 
 ## RAM 특징 알아보자
 
-<img alt="img_85.png" src="img_85.png" width="500"/>
+<img alt="img_85.png" src="img/img_85.png" width="500"/>
 
 - RAM : 전원꺼지면 날아간다 (휘발성)
 - 보조기억장치 종류: SSD, USB, 하드디스크, 시디룸 등
@@ -21,7 +21,7 @@ Q. RAM이 크면 정확히 뭐가 좋을까? RAM 종류에는 모가 있을까?
 
 - 쉽게 이해할 수 있는 이미지
 
-<img alt="img_86.png" src="img_86.png" width="400"/>
+<img alt="img_86.png" src="img/img_86.png" width="400"/>
 
 ## RAM 종류 ✨
 
@@ -43,7 +43,7 @@ Q. RAM이 크면 정확히 뭐가 좋을까? RAM 종류에는 모가 있을까?
 
 ### < 둘의 차이 이해하기 >
 
-<img alt="img_87.png" src="img_87.png" width="400"/>
+<img alt="img_87.png" src="img/img_87.png" width="400"/>
 
 ### (3) SDRAM
 
@@ -61,9 +61,9 @@ Q. RAM이 크면 정확히 뭐가 좋을까? RAM 종류에는 모가 있을까?
 - DDR SDRAM은 주고받을 데이터도 많아질 수 있고, 더 빨라질 수 있다
 - 거기에다가 2배 더 넓은 DDR2 SDRAM !
 
-<img alt="img_88.png" src="img_88.png" width="500"/>
+<img alt="img_88.png" src="img/img_88.png" width="500"/>
 
-<img alt="img_89.png" src="img_89.png" width="500"/>
+<img alt="img_89.png" src="img/img_89.png" width="500"/>
 
 #### DDR SDRAM
 

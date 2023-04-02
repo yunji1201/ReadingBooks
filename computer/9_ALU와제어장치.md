@@ -4,7 +4,7 @@
 
 ## ALU
 
-<img alt="img_37.png" src="img_37.png" width="500"/>
+<img alt="img_37.png" src="img/img_37.png" width="500"/>
 
 - 계산하는 장치
 - 위 그림을 보면 '피연산자' 즉 계산할 때 필요한 정보들과 제어장치로부터 제어신호를 받아들인다.
@@ -17,16 +17,16 @@
 
 ### 플래그 종류
 
-<img alt="img_38.png" src="img_38.png" width="500"/>
+<img alt="img_38.png" src="img/img_38.png" width="500"/>
 
-<img alt="img_39.png" src="img_39.png" width="500"/>
+<img alt="img_39.png" src="img/img_39.png" width="500"/>
 
 - 이런식으로 저장된다
 - 해당되면 0이 1로 바뀌도록!
 
 ## 제어장치
 
-<img alt="img_40.png" src="img_40.png" width="500"/>
+<img alt="img_40.png" src="img/img_40.png" width="500"/>
 
 - 제어 신호를 발생시키고 명령어를 해석하는 장치
 
@@ -36,7 +36,7 @@
 
 #### (1) 클럭신호
 
-<img alt="img_41.png" src="img_41.png" width="500"/>
+<img alt="img_41.png" src="img/img_41.png" width="500"/>
 
 - 컴퓨터의 모든 부품을 일사불란하게 움직일 수 있게 하는 시간 단위
 

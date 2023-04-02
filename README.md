@@ -26,5 +26,6 @@
 | 15강 | [RAM의 특성과 종류](https://github.com/yunji1201/ReadingBooks/blob/main/computer/15_RAM특성과종류.md)            |
 | 16강 | [메모리의 주소 공간-물리 주소와 논리 주소](https://github.com/yunji1201/ReadingBooks/blob/main/computer/16_메모리주소공간.md) |
 | 17강 | [캐시 메모리](https://github.com/yunji1201/ReadingBooks/blob/main/computer/17_캐시메모리.md)                    |
+| 18강 | [다양한 보조기억장치(하드 디스크와 플래시 메모리)](https://github.com/yunji1201/ReadingBooks/blob/main/computer/18_하드디스크와플래시메모리.md)                    |
 
 </details>
