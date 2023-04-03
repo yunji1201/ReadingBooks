@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/19_RAID정의와종류.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_33.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/18_하드디스크와플래시메모리.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/18_하드디스크와플래시메모리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +51,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/computer/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/computer" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\intellij-workspace\ReadingBooks\computer\img" />
       <recent name="C:\intellij-workspace\ReadingBooks\computer" />
+      <recent name="C:\intellij-workspace\ReadingBooks\computer\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\intellij-workspace\ReadingBooks\computer\img" />
