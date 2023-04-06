@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/21_다양한입출력방법.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/22_레지스터를조작해서입출력하기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/20_장치컨트롤러와장치드라이버.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/20_장치컨트롤러와장치드라이버.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

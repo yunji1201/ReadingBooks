@@ -29,5 +29,7 @@
 | 18강 | [다양한 보조기억장치 (하드 디스크와 플래시 메모리)](https://github.com/yunji1201/ReadingBooks/blob/main/computer/18_하드디스크와플래시메모리.md) |
 | 19강 | [RAID의 정의와 종류](https://github.com/yunji1201/ReadingBooks/blob/main/computer/19_RAID정의와종류.md)                    |
 | 20강 | [장치 컨트롤러와 장치 드라이버](https://github.com/yunji1201/ReadingBooks/blob/main/computer/20_장치컨트롤러와장치드라이버.md)            |
+| 21강 | [다양한 입출력 방법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/21_다양한입출력방법.md)            |
+| 22강 | [레지스터를 직접 조작하며 입출력 해보기](https://github.com/yunji1201/ReadingBooks/blob/main/computer/22_레지스터를조작해서입출력하기.md)            |
 
 </details>
