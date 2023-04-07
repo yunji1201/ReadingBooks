@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/21_다양한입출력방법.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/22_레지스터를조작해서입출력하기.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_59.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/21_다양한입출력방법.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/21_다양한입출력방법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/test.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
