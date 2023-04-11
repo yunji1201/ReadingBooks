@@ -31,5 +31,6 @@
 | 20강 | [장치 컨트롤러와 장치 드라이버](https://github.com/yunji1201/ReadingBooks/blob/main/computer/20_장치컨트롤러와장치드라이버.md)            |
 | 21강 | [다양한 입출력 방법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/21_다양한입출력방법.md)            |
 | 22강 | [레지스터를 직접 조작하며 입출력 해보기](https://github.com/yunji1201/ReadingBooks/blob/main/computer/22_레지스터를조작해서입출력하기.md)            |
+| 23강 | [운영체제를 알아야 하는 이유](https://github.com/yunji1201/ReadingBooks/blob/main/computer/23_운영체제알아야하는이유.md)            |
 
 </details>
