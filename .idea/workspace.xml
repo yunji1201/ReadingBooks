@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_94.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/23_운영체제알아야하는이유.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/23_운영체제알아야하는이유.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/24_운영체제큰그림.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/24_운영체제큰그림.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/25_시스템호출관찰.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/25_시스템호출관찰.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
