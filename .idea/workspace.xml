@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/computer/24_운영체제큰그림.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/25_시스템호출관찰.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_75.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/21_다양한입출력방법.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/21_다양한입출력방법.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/computer/22_레지스터를조작해서입출력하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/22_레지스터를조작해서입출력하기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/computer/23_운영체제알아야하는이유.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/23_운영체제알아야하는이유.md" afterDir="false" />
     </list>
