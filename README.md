@@ -29,10 +29,11 @@
 | 18강 | [다양한 보조기억장치 (하드 디스크와 플래시 메모리)](https://github.com/yunji1201/ReadingBooks/blob/main/computer/18_하드디스크와플래시메모리.md) |
 | 19강 | [RAID의 정의와 종류](https://github.com/yunji1201/ReadingBooks/blob/main/computer/19_RAID정의와종류.md)                    |
 | 20강 | [장치 컨트롤러와 장치 드라이버](https://github.com/yunji1201/ReadingBooks/blob/main/computer/20_장치컨트롤러와장치드라이버.md)            |
-| 21강 | [다양한 입출력 방법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/21_다양한입출력방법.md)            |
-| 22강 | [레지스터를 직접 조작하며 입출력 해보기](https://github.com/yunji1201/ReadingBooks/blob/main/computer/22_레지스터를조작해서입출력하기.md)            |
-| 23강 | [운영체제를 알아야 하는 이유](https://github.com/yunji1201/ReadingBooks/blob/main/computer/23_운영체제알아야하는이유.md)            |
-| 24강 | [운영체제의 큰 그림](https://github.com/yunji1201/ReadingBooks/blob/main/computer/24_운영체제큰그림.md)            |
-| 25강 | [시스템 호출(system call) 직접 관찰하기](https://github.com/yunji1201/ReadingBooks/blob/main/computer/25_시스템호출관찰.md)            |
+| 21강 | [다양한 입출력 방법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/21_다양한입출력방법.md)                       |
+| 22강 | [레지스터를 직접 조작하며 입출력 해보기](https://github.com/yunji1201/ReadingBooks/blob/main/computer/22_레지스터를조작해서입출력하기.md)      |
+| 23강 | [운영체제를 알아야 하는 이유](https://github.com/yunji1201/ReadingBooks/blob/main/computer/23_운영체제알아야하는이유.md)               |
+| 24강 | [운영체제의 큰 그림](https://github.com/yunji1201/ReadingBooks/blob/main/computer/24_운영체제큰그림.md)                        |
+| 25강 | [시스템 호출(system call) 직접 관찰하기](https://github.com/yunji1201/ReadingBooks/blob/main/computer/25_시스템호출관찰.md)       |
+| 26강 | [프로세스 개요](https://github.com/yunji1201/ReadingBooks/blob/main/computer/26_프로세스개요.md)                            |
 
 </details>
