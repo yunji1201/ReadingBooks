@@ -35,5 +35,6 @@
 | 24강 | [운영체제의 큰 그림](https://github.com/yunji1201/ReadingBooks/blob/main/computer/24_운영체제큰그림.md)                        |
 | 25강 | [시스템 호출(system call) 직접 관찰하기](https://github.com/yunji1201/ReadingBooks/blob/main/computer/25_시스템호출관찰.md)       |
 | 26강 | [프로세스 개요](https://github.com/yunji1201/ReadingBooks/blob/main/computer/26_프로세스개요.md)                            |
+| 27강 | [프로세스 상태와 계층 구조](https://github.com/yunji1201/ReadingBooks/blob/main/computer/27_프로세스상태와계층구조.md)              |
 
 </details>
