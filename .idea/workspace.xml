@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_103.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/computer/26_프로세스개요.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/26_프로세스개요.md" afterDir="false" />
     </list>
