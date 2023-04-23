@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/28_스레드.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/29_파이썬코드로프로세스확인.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/30_파이썬코드로스레드확인.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_115.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/28_스레드.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/28_스레드.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/30_파이썬코드로스레드확인.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/30_파이썬코드로스레드확인.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
