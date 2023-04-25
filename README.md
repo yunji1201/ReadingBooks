@@ -39,5 +39,6 @@
 | 28강 | [스레드](https://github.com/yunji1201/ReadingBooks/blob/main/computer/28_스레드.md)                                   |
 | 29강 | [파이썬 코드로 프로세스 확인](https://github.com/yunji1201/ReadingBooks/blob/main/computer/29_파이썬코드로프로세스확인.md)              |
 | 30강 | [파이썬 코드로 스레드 확인](https://github.com/yunji1201/ReadingBooks/blob/main/computer/30_파이썬코드로스레드확인.md)                |
+| 31강 | [CPU 스케줄링 개요](https://github.com/yunji1201/ReadingBooks/blob/main/computer/31_CPU스케줄링_개요.md)        |
 
 </details>
