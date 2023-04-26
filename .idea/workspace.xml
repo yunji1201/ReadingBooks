@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/31_CPU스케줄링_개요.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_126.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_138.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/30_파이썬코드로스레드확인.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/30_파이썬코드로스레드확인.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/31_CPU스케줄링_개요.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/31_CPU스케줄링_개요.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +111,8 @@
       <workItem from="1680738057776" duration="2726000" />
       <workItem from="1681775593104" duration="5959000" />
       <workItem from="1682307980678" duration="1989000" />
-      <workItem from="1682377134299" duration="3810000" />
+      <workItem from="1682377134299" duration="3838000" />
+      <workItem from="1682464521520" duration="2454000" />
     </task>
     <servers />
   </component>
