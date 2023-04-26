@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/32_CPU스케줄링_알고리즘.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_146.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/32_CPU스케줄링_알고리즘.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/32_CPU스케줄링_알고리즘.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +111,9 @@
       <workItem from="1681775593104" duration="5959000" />
       <workItem from="1682307980678" duration="1989000" />
       <workItem from="1682377134299" duration="3838000" />
-      <workItem from="1682464521520" duration="3059000" />
+      <workItem from="1682464521520" duration="3209000" />
+      <workItem from="1682480624685" duration="595000" />
+      <workItem from="1682487851688" duration="3088000" />
     </task>
     <servers />
   </component>
