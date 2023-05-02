@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_153.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/34_프로세스_동기화기법.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/35_교착상태.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_169.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/33_프로세스_동기화.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/33_프로세스_동기화.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

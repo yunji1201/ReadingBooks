@@ -42,5 +42,7 @@
 | 31강 | [CPU 스케줄링 개요](https://github.com/yunji1201/ReadingBooks/blob/main/computer/31_CPU스케줄링_개요.md)                    |
 | 32강 | [CPU 스케줄링 알고리즘](https://github.com/yunji1201/ReadingBooks/blob/main/computer/32_CPU스케줄링_알고리즘.md)                |
 | 33강 | [프로세스 동기화](https://github.com/yunji1201/ReadingBooks/blob/main/computer/33_프로세스_동기화.md)                         |
+| 34강 | [프로세스 동기화 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/34_프로세스_동기화기법.md)                    |
+| 35강 | [교착상태](https://github.com/yunji1201/ReadingBooks/blob/main/computer/35_교착상태.md)                                 |
 
 </details>
