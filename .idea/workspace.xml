@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_171.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/36_교착상태_해결방법.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_175.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/35_교착상태.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/35_교착상태.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
