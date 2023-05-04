@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_178.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_179.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/37_연속메모리할당.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_191.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_193.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/36_교착상태_해결방법.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/36_교착상태_해결방법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +120,7 @@
       <workItem from="1682464521520" duration="3209000" />
       <workItem from="1682480624685" duration="595000" />
       <workItem from="1682487851688" duration="3088000" />
-      <workItem from="1683156795071" duration="1566000" />
+      <workItem from="1683156795071" duration="5446000" />
     </task>
     <servers />
   </component>
