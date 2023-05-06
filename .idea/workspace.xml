@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/37_연속메모리할당.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_182.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_185.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_186.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_187.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_188.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_189.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_190.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_191.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/38_페이징을통한_가상메모리관리.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/39_페이지교체_프레임할당.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/40_페이징이점_계층적페이징.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/37_연속메모리할당.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/37_연속메모리할당.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,11 +74,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\intellij-workspace\ReadingBooks\computer" />
+      <recent name="C:\intellij-workspace\ReadingBooks\note" />
       <recent name="C:\intellij-workspace\ReadingBooks\computer\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\intellij-workspace\ReadingBooks\computer\img" />
       <recent name="C:\intellij-workspace\ReadingBooks\computer" />
+      <recent name="C:\intellij-workspace\ReadingBooks\computer\note" />
+      <recent name="C:\intellij-workspace\ReadingBooks\computer\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

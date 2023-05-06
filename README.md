@@ -45,6 +45,9 @@
 | 34강 | [프로세스 동기화 기법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/34_프로세스_동기화기법.md)                    |
 | 35강 | [교착상태](https://github.com/yunji1201/ReadingBooks/blob/main/computer/35_교착상태.md)                                 |
 | 36강 | [교착상태 해결방법](https://github.com/yunji1201/ReadingBooks/blob/main/computer/36_교착상태_해결방법.md)                       |
-| 37강 | [연속 메모리 할당](https://github.com/yunji1201/ReadingBooks/blob/main/computer/37_연속메모리할당.md)              |
+| 37강 | [연속 메모리 할당](https://github.com/yunji1201/ReadingBooks/blob/main/computer/37_연속메모리할당.md)                         |
+| 38강 | [페이징을 통한 가상 메모리 관리](https://github.com/yunji1201/ReadingBooks/blob/main/computer/38_페이징을통한_가상메모리관리.md)          |
+| 39강 | [페이지 교체와 프레임 할당](https://github.com/yunji1201/ReadingBooks/blob/main/computer/39_페이지교체_프레임할당.md) |
+| 40강 | [페이징의 이점과 계층적 페이징](https://github.com/yunji1201/ReadingBooks/blob/main/computer/40_페이징이점_계층적페이징.md)             |
 
 </details>
