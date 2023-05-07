@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/38_페이징을통한_가상메모리관리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/39_페이지교체_프레임할당.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/40_페이징이점_계층적페이징.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_196.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/37_연속메모리할당.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/37_연속메모리할당.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/38_페이징을통한_가상메모리관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/38_페이징을통한_가상메모리관리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
