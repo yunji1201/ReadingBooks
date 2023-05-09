@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_197.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_199.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_201.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_202.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_203.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_204.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_205.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_206.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_209.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/computer/38_페이징을통한_가상메모리관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/38_페이징을통한_가상메모리관리.md" afterDir="false" />
     </list>
@@ -120,7 +111,9 @@
       <workItem from="1682480624685" duration="595000" />
       <workItem from="1682487851688" duration="3088000" />
       <workItem from="1683156795071" duration="5446000" />
-      <workItem from="1683588542517" duration="3890000" />
+      <workItem from="1683588542517" duration="3919000" />
+      <workItem from="1683604407361" duration="2877000" />
+      <workItem from="1683618897347" duration="285000" />
     </task>
     <servers />
   </component>
