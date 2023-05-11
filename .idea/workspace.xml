@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_212.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_214.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_215.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_216.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_218.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_220.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_222.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_223.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_226.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_227.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_228.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_229.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/39_페이지교체_프레임할당.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/39_페이지교체_프레임할당.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/40_페이징이점_계층적페이징.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/40_페이징이점_계층적페이징.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +118,7 @@
       <workItem from="1683588542517" duration="3919000" />
       <workItem from="1683604407361" duration="2877000" />
       <workItem from="1683618897347" duration="285000" />
-      <workItem from="1683759900339" duration="8558000" />
+      <workItem from="1683759900339" duration="11072000" />
     </task>
     <servers />
   </component>
