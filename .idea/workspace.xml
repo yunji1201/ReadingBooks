@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/41_파일과_디렉터리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/42_파일_시스템.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_231.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_232.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_235.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_239.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_243.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_244.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer/42_파일_시스템.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/42_파일_시스템.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
