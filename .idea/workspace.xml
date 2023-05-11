@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/computer/img_224.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_226.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_227.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_228.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer/img_229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/41_파일과_디렉터리.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/42_파일_시스템.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_230.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_232.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer/img_236.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer/40_페이징이점_계층적페이징.md" beforeDir="false" afterPath="$PROJECT_DIR$/computer/40_페이징이점_계층적페이징.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
