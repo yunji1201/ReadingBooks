@@ -6,7 +6,7 @@
 > A. 1TB 하드디스크 네개로 RAID를 구성하면 4TB 하드디스크 한개의 성능과 안전성을 능가할수 있다!
 
 
-<img alt="img_22.png" src="img_22.png" width="400"/>
+<img alt="img_22.png" src="img2/img_22.png" width="400"/>
 
 ## RAID
 
@@ -23,7 +23,7 @@
 
 ### (1) RAID 0
 
-<img alt="img_23.png" src="img_23.png" width="400"/>
+<img alt="img_23.png" src="img2/img_23.png" width="400"/>
 
 - 특징 : 데이터를 단순히 나누어 저장하는 방식
     - 각 하드디스크는 번갈아 가며 데이터를 저장합니다
@@ -34,13 +34,13 @@
 
 - RAID 0 (제로)의 장단점
     - 장점 : 입출력 속도의 향상! <br>
-      <img alt="img_24.png" src="img_24.png" width="300"/>
+      <img alt="img_24.png" src="img2/img_24.png" width="300"/>
     - 단점 : 저장된 정보가 안전하지 않음 <br>
-      <img alt="img_25.png" src="img_25.png" width="300"/>
+      <img alt="img_25.png" src="img2/img_25.png" width="300"/>
 
 ### (2) RAID 1
 
-<img alt="img_26.png" src="img_26.png" width="400"/>
+<img alt="img_26.png" src="img2/img_26.png" width="400"/>
 
 - 특징 : 미러링 (mirroring)
     - 복사본을 만드는 방식
@@ -54,11 +54,11 @@
         - 느린 쓰기 속도 - 두군데 쓰니까 (쓰기 속도 특히!)
         - 하드 디스크 개수가 한정되었을 때 사용가능한 용량이 적어짐
             - 복사본이 만들어지는 용량만큼 사용 불가 -> 많은 양의 하드 디스크가 필요 -> 비용
-              증가 <br> <img alt="img_27.png" src="img_27.png" width="400"/>
+              증가 <br> <img alt="img_27.png" src="img2/img_27.png" width="400"/>
 
 ### (3) RAID 4
 
-<img alt="img_28.png" src="img_28.png" width="400"/>
+<img alt="img_28.png" src="img2/img_28.png" width="400"/>
 
 - RAID 1처럼 완전한 복사본을 만드는 대신, 오류를 검출하고 복구하기 위한 정보를 저장
 - '패리티 비트' 저장
@@ -67,19 +67,19 @@
     - 패리티를 저장한 장치를 이용해 다른 장치들의 오류를 검출하고, 오류가 있다면 복구
         - RAID 1보다 적은 하드 디스크로도 데이터를 안전하게 보관!
 - 단점
-    - 패리티 디스크의 병목현상이 생길 수 있음 <br> <img alt="img_29.png" src="img_29.png" width="400"/>
+    - 패리티 디스크의 병목현상이 생길 수 있음 <br> <img alt="img_29.png" src="img2/img_29.png" width="400"/>
         - 어떤 정보를 각 하드디스크에 쓸 때마다 하드디스크 4에다가 매번 똑같이 써주면서 오류검출을 해야하니까 디스크4에서 병목현상 발생가능!
 
 ### (4) RAID 5
 
-<img alt="img_30.png" src="img_30.png" width="400"/>
+<img alt="img_30.png" src="img2/img_30.png" width="400"/>
 
 - RAID4의 병목현상을 보완한다
 - 패리티 정보를 분산하여 저장하는 방식
 
 ### (5) RAID 6
 
-<img alt="img_32.png" src="img_32.png" width="400"/>
+<img alt="img_32.png" src="img2/img_32.png" width="400"/>
 
 - 두 종류의 패리티 (오류를 검출하고 복구할 수 있는 수단)
 - 두 종류의 패리티를 사용하니까 RAID 5보다 훨씬 더 안전!
@@ -96,4 +96,4 @@
 
 - 아래 이미지와 같이 RAID 직접 설정 가능
 
-<img alt="img_33.png" src="img_33.png" width="300"/>
+<img alt="img_33.png" src="img2/img_33.png" width="300"/>

@@ -6,7 +6,7 @@
 
 ## 1. 선입 선처리 스케줄링
 
-<img alt="img_139.png" src="img_139.png" width="500"/>
+<img alt="img_139.png" src="img2/img_139.png" width="500"/>
 
 ### FCFS (First Come First Served) 스케쥴링
 
@@ -29,7 +29,7 @@
 
 ## 3. 라운드 로빈 스케줄링
 
-<img alt="img_140.png" src="img_140.png" width="500"/>
+<img alt="img_140.png" src="img2/img_140.png" width="500"/>
 
 ### RR (Round Robin) 스케줄링
 
@@ -72,7 +72,7 @@
     - 우선순위 높은 프로세스만 주구장창 실행
     - 우선순위 낮은 프로세스는 (준비 큐에 먼저 삽입되었음에도 불구하고) 실행 연기
 
-<img alt="img_141.png" src="img_141.png" width="500"/>
+<img alt="img_141.png" src="img2/img_141.png" width="500"/>
 
 ### 이를 방지하는 대표적인 기법
 
@@ -81,11 +81,11 @@
 - 대기 중인 프로세스의 우선순위를 마치 나이 먹듯 점차 증가시키는 방법
     - 우선순위가 낮아도 언젠가는 우선순위가 높아진다!
 
-<img alt="img_142.png" src="img_142.png" width="500"/>
+<img alt="img_142.png" src="img2/img_142.png" width="500"/>
 
 ## 6. 다단계 큐 스케줄링
 
-<img alt="img_143.png" src="img_143.png" width="500"/>
+<img alt="img_143.png" src="img2/img_143.png" width="500"/>
 
 ### Multilevel queue 스케줄링
 
@@ -105,7 +105,7 @@
 
 ## 7. 다단계 피드백 큐 스케줄링
 
-<img alt="img_144.png" src="img_144.png" width="500"/>
+<img alt="img_144.png" src="img2/img_144.png" width="500"/>
 
 ### Multilevel feedback queue 스케줄링
 
@@ -127,11 +127,11 @@
 
 - 일정 시간동안 낮은 순위에서 기다리는 프로세스가 있다면, 그 프로세스의 우선순위를 점차 높여서 (에이징 기법 적용해서) 기아 현상 방지할 수 있다!
 
-<img alt="img_145.png" src="img_145.png" width="500"/>
+<img alt="img_145.png" src="img2/img_145.png" width="500"/>
 
 ### 다단계 피드백 큐 정리
 
 - 어떤 프로세스의 CPU 시간이 길면 우선순위가 낮아지고, 어떤 프로세스가 낮은 우선순위 큐에서 너무 오래 기다리면 우선순위를 높이는 방식!
 - 구현하기 어렵지만, CPU 스케줄링의 가장 일반적인 방식이다!
 
-<img alt="img_146.png" src="img_146.png" width="500"/>
+<img alt="img_146.png" src="img2/img_146.png" width="500"/>

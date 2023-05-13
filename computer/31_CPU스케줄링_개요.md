@@ -17,50 +17,50 @@
         - 빨리 처리해야하는 프로세스, 늦게해도 되는 프로세스 등등
     - 예) 입출력 작업이 많은 프로세스(=입출력 집중 프로세스)의 우선순위는 CPU 작업이 많은 프로세스 (=CPU 집중 프로세스)의 우선선위 보다 높다
 
-<img alt="img_130.png" src="img_130.png" width="500"/>
+<img alt="img_130.png" src="img2/img_130.png" width="500"/>
 
-<img alt="img_131.png" src="img_131.png" width="500"/>
+<img alt="img_131.png" src="img2/img_131.png" width="500"/>
 
 ### - 프로세스 우선순위 (priority)
 
-<img alt="img_132.png" src="img_132.png" width="500"/>
+<img alt="img_132.png" src="img2/img_132.png" width="500"/>
 
 - 우선순위가 높은 프로세스일수록 더 빨리, 더 자주 사용되는 것
     - 이미지 상에서는 Priority 부분을 보면 확인할 수 있다
 
 ## 3. 스케줄링 큐
 
-<img alt="img_133.png" src="img_133.png" width="500"/>
+<img alt="img_133.png" src="img2/img_133.png" width="500"/>
 
 - 운영체제가 모든 프로세스 각각의 우선순위를 파악하려면 시간도 오래걸리고 비효율적
 - 그래서 생겨난게 <u>'스케줄링 큐'</u>
 - 쉽게 생각하면 프로세스들이 줄 서는거라고 생각해
 
-<img alt="img_134.png" src="img_134.png" width="500"/>
+<img alt="img_134.png" src="img2/img_134.png" width="500"/>
 
 - '큐'라는 자료구조는 반드시 선입선출 방식인데, 스케줄링에서의 큐는 반드시 선입선출일 필요는 없다
     - 우선순위에 따라서 실행된다
 
 ### - 준비큐 / 대기큐
 
-<img alt="img_135.png" src="img_135.png" width="500"/>
+<img alt="img_135.png" src="img2/img_135.png" width="500"/>
 
 - 준비큐 : CPU를 이용하기 위해 기다리는 줄
 - 대기큐 : 입출력장치를 이용하기 위해 기다리는 줄
     - 같은 장치를 요구한 프로세스들은 같은 큐에서 대기
 
-<img alt="img_136.png" src="img_136.png" width="500"/>
+<img alt="img_136.png" src="img2/img_136.png" width="500"/>
 
 ### - 프로세스 상태 다이어그램 (중요)
 
-<img alt="img_137.png" src="img_137.png" width="500"/>
+<img alt="img_137.png" src="img2/img_137.png" width="500"/>
 
 ## 4. 선점형 / 비선점형 스케줄링 (중요)
 
 - 선점형 : preemptive scheduling
 - 비선점형 : Non-preemptive Scheduling
 
-<img alt="img_138.png" src="img_138.png" width="500"/>
+<img alt="img_138.png" src="img2/img_138.png" width="500"/>
 
 - 위와 같은 상황에서 할 수 있는 선택지는
     - (1) 현제 CPU를 사용중인 프로세스로부터 CPU 자원을 빼앗아 다른 급한 프로세스에게 할당 = 선점형 스케줄링
