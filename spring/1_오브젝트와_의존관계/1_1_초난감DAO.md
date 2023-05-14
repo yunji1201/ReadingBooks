@@ -24,11 +24,12 @@
     - data access object
         - db를 사용해 데이터를 조회하거나 조작하는 기능을 전담하도록 만든 오브젝트
 
-> Q. DAO와 VO와의 차이 ?
-
 ## 1.1.1 - User
 
 1. User 클래스 만들기
+
+<img alt="img.png" src="img.png" width="500"/>
+
 2. DB - User 테이블 만들기
 
 - 자바빈 (JavaBean-'빈')
@@ -51,7 +52,7 @@
 
 - main() 메서드를 통해서 등록, 조회가 되는지 확인해보기
 
-### 왜 초난감DAO일까?
+### 왜 '초난감DAO'일까?
 
 - 1-1장이 초난감DAO인 이유는 현재의 UserDao 클래스 코드에는 여러 문제가 있기 때문이다.
 - 말그대로 초난감 코드이다.
@@ -65,3 +66,23 @@
 - 그 장점들이 당장, 미래에 주는 이득은 무엇인가
 - 그것들과 객체지향 설계 원칙과의 연관성은 무엇인가
 - 초난감DAO 개발과 개선DAO 개발에서 어떤 차이가 무엇인가
+
+------------------------------------------------
+
+## 부족한 개념 정리
+
+### 1. DAO와 VO와의 차이
+
+### 2. 리소스 (Connection, Statement, ResultSet) 개념 정리
+
+#### Connection
+
+#### Statement
+
+#### ResultSet
+
+### 3. Statement / PreparedStatement 의 차이
+
+
+
+
