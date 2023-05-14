@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/1_2_DAO분리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/1_3_DAO확장.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/1_4_제어의역전.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/1_1_초난감DAO.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring/1_오브젝트와_의존관계/1_1_초난감DAO.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring/README.md" afterDir="false" />
