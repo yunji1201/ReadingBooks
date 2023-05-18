@@ -30,11 +30,34 @@
         2. 관계설정 - 제어 작업
 
 
-- 애플리케이션 컨텍스트가 설정정보 만드는 방법
-  - 
+- 애플리케이션은 애플리케이션 컨텍스트와 그 설정정보를 따라서 만들어지고 구성됨
+
+### DaoFacotry를 사용하는 애플리케이션 컨텍스트
+
+- DaoFactory를 스프링의 빈 팩토리가 사용할 수 있는 '설정정보'로 만들기
+    - (1) @Configuration 어노테이션 추가
+        - 스프링이 빈 팩토리를 위한 오브젝트 설정을 담당하는 클래스라고 인식
+    - (2) 오브젝트 만들어주는 메소드에 @Bean 어노테이션 추가
+
+
+- 이 두가지 어노테이션만으로 스프링 프레임워크의 빈팩토리가 IoC방식의 기능 제공할 때 사용할 완벽한 '설정정보'가 됨
+    - Applicationcontext를 구현한 클래스는 여러 가지가 있는데 @Configuration이 붙은 자바 코드를 설정정보로 사용하려면
+    - 'AnnotationConfigApplicationContext'를 이용!
+
+```java
+public class UserDaoTest {
+    public static void main(String[] args) throws ClassNotFoundException, SQLException {
+        Applicationcontext context =
+                new AnnotationConfigApplicationContext(DaoFactory.class);
+        UserDao dao = context.getBean("userDao“, UserDao.class);
+    }
+```
+
+- getBean() : ApplicationContext가 관리하는 오브젝트를 요청하는 메소드
+- "userDao" : getBean()의 파라미터, Applicationcontext에 등록된 빈의 이름
 
 ## 1.5.2 애플리케이션 컨텍스트의 동작방식
 
+
+
 ## 1.5.3 스프링 IoC의 용어 정리
-
-
