@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_1_스프링부트소개.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_2_Containerless.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_1_스프링부트살펴보기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_1_스프링부트소개.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_2_Containerless.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/2_1_스프링부트시작하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toby/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,7 @@
       <recent name="C:\intellij-workspace\ReadingBooks\computer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\intellij-workspace\ReadingBooks\toby\2_스프링부트_시작하기" />
       <recent name="C:\intellij-workspace\ReadingBooks\computer\img2" />
       <recent name="C:\intellij-workspace\ReadingBooks\computer" />
       <recent name="C:\intellij-workspace\ReadingBooks\computer\note" />
