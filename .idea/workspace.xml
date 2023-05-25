@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/3_standalone.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_7.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_1_스프링부트살펴보기.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_1_스프링부트살펴보기.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/2_1_스프링부트시작하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/2_1_스프링부트시작하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toby/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,17 +72,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/1_오브젝트와_의존관계" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/toby/3_독립실행형" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\intellij-workspace\ReadingBooks\toby\3_독립실행형" />
       <recent name="C:\intellij-workspace\ReadingBooks\spring\1_오브젝트와_의존관계" />
       <recent name="C:\intellij-workspace\ReadingBooks\spring" />
       <recent name="C:\intellij-workspace\ReadingBooks\computer" />
       <recent name="C:\intellij-workspace\ReadingBooks\note" />
-      <recent name="C:\intellij-workspace\ReadingBooks\computer\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\intellij-workspace\ReadingBooks\computer\img2" />
@@ -128,7 +127,8 @@
       <workItem from="1683759900339" duration="11072000" />
       <workItem from="1684108537190" duration="4212000" />
       <workItem from="1684796753733" duration="489000" />
-      <workItem from="1684883375162" duration="6295000" />
+      <workItem from="1684883375162" duration="6364000" />
+      <workItem from="1684970040844" duration="3066000" />
     </task>
     <servers />
   </component>
