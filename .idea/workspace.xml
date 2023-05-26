@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/3_standalone.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toby/3_독립실행형/3_standalone.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/3_독립실행형/3_standalone.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +126,8 @@
       <workItem from="1684108537190" duration="4212000" />
       <workItem from="1684796753733" duration="489000" />
       <workItem from="1684883375162" duration="6364000" />
-      <workItem from="1684970040844" duration="3066000" />
+      <workItem from="1684970040844" duration="3086000" />
+      <workItem from="1685055825683" duration="2833000" />
     </task>
     <servers />
   </component>
