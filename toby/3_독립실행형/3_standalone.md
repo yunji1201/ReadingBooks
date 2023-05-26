@@ -51,11 +51,100 @@
     - => 'TomcatServletWebServerFactory'
     - 이걸 이용해서 웹서버를 시작한다
 
-<img alt="img_7.png" src="img_7.png" width="500"/>
+### 결과
+
+<img alt="img_7.png" src="img_7.png" width="300"/>
 
 ## (3) 서블릿 등록
 
+<img alt="img_8.png" src="img_8.png" width="500"/>
+
+- Http 통신을 위해서 서블릿 등록하고 매핑하는 작업이 필요하다
+
+### 요청과 응답
+
+<img alt="img_9.png" src="img_9.png" width="500"/>
+
+### 코드
+
+<img alt="img_11.png" src="img_11.png" width="800"/>
+
+```java
+public class SpringbootApplication {
+
+    public static void main(String[] args) {
+        TomcatServletWebServerFactory serverFactory = new TomcatServletWebServerFactory();
+
+        // ServletContextInitializer는 서블릿 컨텍스트를 프로그램에 의해 구성 할 때 사용되는 인터페이스
+        // 익명클래스 (생성자 호출 방식으로 안하는 이유는 다른데서 또 쓰이는게 아니니까)
+        WebServer webServer = serverFactory.getWebServer(servletContext -> {
+            servletContext.addServlet("hello", new HttpServlet() { // 서블릿 관련 정보 넣기
+                // 두번째 파라미터에는 서블릿 타입이 가야하는데 이것도 인터페이스이고 구현해야하는 메소드가 많아서
+                // 공통적인 코드를 미리 구현해놓고 상속해서 사용할 수있는 어뎁터 클래스를 사용할 것 => "HttpServlet"
+                // 상속해서 오버라이드해서 사용하면 되니까 여기서도 익명클래스로 사용하기
+                @Override
+                protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+                    // HttpServlet 클래스에서 내가 원하는 메소드를 상속해서 사용하면 된다 -> 나는 service를 사용할거야
+                    // super.service(req, resp); // 파라미터는 http 통신할때 요청할 때 사용될 오브젝트, 응답할 때 사용할 오브젝트로 구성
+
+                    // 응답만들어보기 (상태코드, 헤더(콘텐츠타입 꼭 필요), 바디) 이 세가지를 구현해야함
+                    resp.setStatus(200);
+                    resp.setHeader("Content-Type", "text/plain");
+                    resp.getWriter().println("Hello Servlet"); // 바디 사용하기
+                }
+            }).addMapping("/hello");
+            // addServlet으로 서블렛을 만들었으면 서블렛과 요청응답을 '매핑'을 해주어야함
+            // 해당 url로 들어오는 요청이 있으면 위에 익명클래스로 만든 로직에서 처리하겠다라는 뜻
+
+        });
+        webServer.start();
+        // 톰캣서블릿 컨테이너가 동작함
+    }
+
+}
+```
+
+### 실행해보기
+
+<img alt="img_13.png" src="img_13.png" width="500"/>
+
+### 결과
+
+<img alt="img_12.png" src="img_12.png" width="250"/>
+
 ## (4) 서블릿 요청 처리
+
+- 위에서 작성한 코드를 리팩토링하기
+
+<img alt="img_14.png" src="img_14.png" width="800"/>
+
+- 하드코딩에서 적어둔 것들 스프링에서 제공하는 ENUM 사용해서 넣기
+- 스프링 컨트롤러에서 구현했던 것처럼 파라미터 값을 받아와서 응답하기
+
+### 코드
+
+```java
+public class SpringbootApplication {
+
+    public static void main(String[] args) {
+        TomcatServletWebServerFactory serverFactory = new TomcatServletWebServerFactory();
+        WebServer webServer = serverFactory.getWebServer(servletContext -> {
+            servletContext.addServlet("hello", new HttpServlet() {
+                @Override
+                protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+                    String name = req.getParameter("name");
+
+                    resp.setStatus(HttpStatus.OK.value());
+                    resp.setHeader(HttpHeaders.CONTENT_TYPE, MediaType.TEXT_PLAIN_VALUE);
+                    resp.getWriter().println("Hello " + name);
+                }
+            }).addMapping("/hello");
+
+        });
+        webServer.start();
+    }
+}
+```
 
 ## (5) 프론트 컨트롤러
 
