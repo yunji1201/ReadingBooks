@@ -163,4 +163,54 @@ public class SpringbootApplication {
 
 ## (6) 프론트 컨트롤러로 전환
 
+<img alt="img_17.png" src="img_17.png" width="800"/>
+
+### 코드
+
+```java
+public class SpringbootApplication {
+
+    public static void main(String[] args) {
+        TomcatServletWebServerFactory serverFactory = new TomcatServletWebServerFactory();
+        WebServer webServer = serverFactory.getWebServer(servletContext -> {
+            servletContext.addServlet("frontController", new HttpServlet() {
+                @Override
+                protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+                    // 인증, 보안, 다국어, 공통 기능 등
+                    if (req.getRequestURI().equals("/hello") && req.getMethod().equals(HttpMethod.GET.name())) {
+                        String name = req.getParameter("name");
+
+                        resp.setStatus(HttpStatus.OK.value());
+                        resp.setHeader(HttpHeaders.CONTENT_TYPE, MediaType.TEXT_PLAIN_VALUE);
+                        resp.getWriter().println("Hello " + name);
+                    } else if (req.getRequestURI().equals("/user")) {
+
+                    } else {
+                        resp.setStatus(HttpStatus.NOT_FOUND.value());
+                    }
+                }
+            }).addMapping("/*"); // 중앙화 (슬래시 이후로 모두 이쪽으로 들어오게 된다)
+
+        });
+        webServer.start();
+    }
+}
+```
+
 ## (7) hello 컨트롤러 매핑과 바인딩
+
+### 클래스 수정
+
+- 평범한 자바 클래스로 변환하기
+
+```java
+public class HelloController {
+    public String hello(String name) {
+        return "Hello " + name;
+    }
+}
+```
+
+### 컨트롤러 매핑
+
+<img alt="img_18.png" src="img_18.png" width="800"/>
