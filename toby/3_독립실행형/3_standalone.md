@@ -148,6 +148,19 @@ public class SpringbootApplication {
 
 ## (5) 프론트 컨트롤러
 
+<img alt="img_15.png" src="img_15.png" width="500"/>
+
+- 만약 공통적으로 필요한 로직이 있다면 모든 servlet에 들어가야만 하게 된다
+    - => 중복된 코드가 발생하게 됨
+
+### front controller
+
+<img alt="img_16.png" src="img_16.png" width="500"/>
+
+- 이전 : 각 url에 맞게 각 servlet이 매핑을 해서 각각 처리한다
+- 프론트 컨트롤러 사용 시 : 모든 servlet에 공통적으로 들어가는 로직을 맨 앞단인 '프론트 컨트롤러'에 추가해두고 그 안에서 다시 각기 다른 servlet으로 위임
+    - 프론트 컨트롤러는 인증, 보안, 다국어처리 등등에 많이 사용된다
+
 ## (6) 프론트 컨트롤러로 전환
 
 ## (7) hello 컨트롤러 매핑과 바인딩

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toby/3_독립실행형/img_16.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toby/3_독립실행형/3_standalone.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby/3_독립실행형/3_standalone.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/toby/3_독립실행형" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
