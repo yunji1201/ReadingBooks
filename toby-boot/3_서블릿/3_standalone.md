@@ -214,3 +214,32 @@ public class HelloController {
 ### 컨트롤러 매핑
 
 <img alt="img_18.png" src="img_18.png" width="800"/>
+
+```java
+public class SpringbootApplication {
+
+    public static void main(String[] args) {
+        ServletWebServerFactory serverFactory = new TomcatServletWebServerFactory();
+        WebServer webServer = serverFactory.getWebServer(servletContext -> {
+            HelloController helloController = new HelloController();
+
+            servletContext.addServlet("hello", new HttpServlet() {
+                @Override
+                protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+                    // 인증, 보안, 다국어, 공통기능
+                    if (req.getRequestURL().equals("/hello") && req.getMethod().equals(HttpMethod.GET.name())) {
+                        String name = req.getParameter("name");
+                        String ret = helloController.hello(name);
+                        resp.setContentType(MediaType.TEXT_PLAIN_VALUE);
+                        resp.getWriter().println(ret);
+                    } else {
+                        resp.setStatus(HttpStatus.NOT_FOUND.value());
+                    }
+                }
+            }).addMapping("/*");
+
+        });
+        webServer.start();
+    }
+}
+```
