@@ -10,4 +10,5 @@
 2. [토비의 스프링 3.1](https://github.com/yunji1201/ReadingBooks/blob/main/spring/README.md)
 3. [토비의 스프링 부트 - 이해와 원리](https://github.com/yunji1201/ReadingBooks/blob/main/toby-boot/README.md)
 4. [자바 프로그래밍 입문](https://github.com/yunji1201/ReadingBooks/tree/main/java) ✅
-5. [Today I Learn](https://github.com/yunji1201/ReadingBooks/tree/main/TIL) 
+5. [Spring boot JWT Tutorial](https://github.com/yunji1201/ReadingBooks/tree/main/boot-jwt)
+6. [Today I Learn](https://github.com/yunji1201/ReadingBooks/tree/main/TIL) 
