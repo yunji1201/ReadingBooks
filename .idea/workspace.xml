@@ -1,61 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_6.png" afterDir="false" />
+    <list default="true" id="a9db922d-ea8f-4916-8716-3f79d214bf43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/boot-jwt/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby-boot/4_스프링/4_spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/4_스프링/4_spring.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIL/GraphQL/graphQL2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIL/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/1_1_스프링부트살펴보기.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/1_스프링부트_살펴보기/1_1_스프링부트살펴보기.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/1_스프링부트_살펴보기/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/1_스프링부트_살펴보기/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/1_스프링부트_살펴보기/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/1_스프링부트_살펴보기/img_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/1_스프링부트_살펴보기/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/1_스프링부트_살펴보기/img_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/2_1_스프링부트시작하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/2_1_스프링부트시작하기.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/2_스프링부트_시작하기/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/2_스프링부트_시작하기/img_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/3_standalone.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/3_standalone.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/3_서블릿/img_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/3_서블릿/img_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/4_스프링/4_spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/4_스프링/4_spring.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toby/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/README.md" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/boot-jwt/jwt.md" beforeDir="false" afterPath="$PROJECT_DIR$/boot-jwt/jwt.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jwttutorial" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -137,7 +86,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="" />
+      <changelist id="a9db922d-ea8f-4916-8716-3f79d214bf43" name="Changes" comment="" />
       <created>1678772356346</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
