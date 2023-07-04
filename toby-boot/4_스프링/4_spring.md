@@ -80,17 +80,18 @@ public class HelloController {
 ```
 
 ## DI (Dependency Injection)
+
 - 보통 스프링 컨테이너를 Spring IoC/DI Contatiner 라고도 한다
 
 <img alt="img_3.png" src="img_3.png" width="500"/>
 
 - SimpleHelloService 클래스에 HelloController 클래스는 영향을 받고 있다.
-  - = 즉 의존관계를 가지고 있다
+    - = 즉 의존관계를 가지고 있다
 
 <img src="./assets/4_spring-1688080969961.png" width="500"/>
 
 - 그럼 만약에 이 SimpleHelloService 클래스말고 새로운 ComplexHelloService 를 사용하려면?
-  - HelloController의 코드를 수정해야한다!
+    - HelloController의 코드를 수정해야한다!
 
 - 독립적인 코드로 만들려면 어떻게 해야하지?
 
@@ -104,21 +105,21 @@ public class HelloController {
 
 - 그런데 이제 HelloController가 실행할 때 둘 중에 어떤 서비스를 이용해야할지 모르니까 어떻게든 연관 관계는 필요하게된다
 - 이떄의 과정을 이제 **'Dependency Injection'** 이라고 한다!
-  - DI는 제3의 존재가 필요하고 이걸 바로 'Assembler'라고 함
-  - 소스코드상에서는 연결되어있지 않지만 컨트롤러에서 서비스를 사용하려면 그 서비스 오브젝트를 주입시켜주어야 한다
-  - 이 어셈블러를 우리는 '스프링 컨테이너'라고 함
+    - DI는 제3의 존재가 필요하고 이걸 바로 'Assembler'라고 함
+    - 소스코드상에서는 연결되어있지 않지만 컨트롤러에서 서비스를 사용하려면 그 서비스 오브젝트를 주입시켜주어야 한다
+    - 이 어셈블러를 우리는 '스프링 컨테이너'라고 함
 
 <img src="./assets/4_spring-1688081343069.png" width="500"/>
 
 - 즉, 스프링 컨테이너가 하는 일이 뭐냐 !!
-  - 우리가 메타정보를 전달해주면 클래스에 싱글톤 오브젝트를 만드는데, 
-  - 이 오브젝트를 사용할 다른 의존 오브젝트가 있다면
-  - 그 오브젝트를 '주입'해준다
+    - 우리가 메타정보를 전달해주면 클래스에 싱글톤 오브젝트를 만드는데,
+    - 이 오브젝트를 사용할 다른 의존 오브젝트가 있다면
+    - 그 오브젝트를 '주입'해준다
 
 
 - 주입방법
-  - 생성자를 통해서 주입
-  - 팩토리 메소드를 통해 빈을 만들어서 파라미터를 넘김
+    - 생성자를 통해서 주입
+    - 팩토리 메소드를 통해 빈을 만들어서 파라미터를 넘김
 
 ## DI (Dependency Injection) 적용해보기!
 
@@ -199,6 +200,64 @@ public class SpringbootApplication {
 ```
 
 ## DispatcherServlet 으로 전환
+
 - dispathcerServlet
-  - front controller의 많은 기능을 대신해주는 서블릿
-- 스프링 컨테이너와 연결은 어떻게 해야할까? 
+    - front controller의 많은 기능을 대신해주는 서블릿
+- 스프링 컨테이너와 연결은 어떻게 해야할까?
+
+## 애노테이션 매핑 정보 사용
+
+- 서블릿컨테이너 코드 대신에 컨트롤러 코드 안에다가 매핑 정보 넣는 방법!
+    - => 'annotation' 사용하기!
+
+```java
+    @GetMapping("/hello")
+public String hello(String name){
+        return helloService.sayHello(Objects.requireNonNull(name));
+        // 컨트롤러는 유저의 요청사항 검증해야한다
+        // null이면 에러 내보내고 null이 아니면 값을 전달
+        }
+```
+
+- 디스패쳐서블릿은 다 찾아서 매핑정보를 가진 클래스를 찾는다
+
+```java
+// @GetMapping("/hello") ==  @RequestMapping(value = "/hello", method = RequestMethod.GET)
+@GetMapping
+@ResponseBody // 스트링 값을 웹 응답의 바디에 넣어서 응답하게 하기 위함 / 이거 없으면 404 에러 (뷰가 없으니까)
+// @RestController가 붙어있으면 자동적으로 그 아래의 메소드들이 ResponseBody 어노테이션이 붙어있다고 판단을 한다
+// 그래서 @RestController 없으면 @ResponseBody를 명시적으로 붙여줘야하는 것!
+public String hello(String name){
+        return helloService.sayHello(Objects.requireNonNull(name));
+        // 컨트롤러는 유저의 요청사항 검증해야한다
+        // null이면 에러 내보내고 null이 아니면 값을 전달
+        }
+```
+
+## 스프링 컨테이너로 통합
+
+```java
+public class SpringbootApplication {
+    public static void main(String[] args) {
+
+        // <스프링 컨테이너를 만드는 작업>
+        GenericWebApplicationContext applicationContext = new GenericWebApplicationContext();
+        applicationContext.registerBean(HelloController.class);
+        applicationContext.registerBean(SimpleHelloService.class);
+        applicationContext.refresh();
+
+        // <서블릿 컨테이너를 코드로 생성 하면서 디스패처 서블릿을 등록하는 과정>
+        ServletWebServerFactory serverFactory = new TomcatServletWebServerFactory();
+        WebServer webServer = serverFactory.getWebServer(servletContext -> {
+            servletContext.addServlet("dispatcherServlet",
+                    new DispatcherServlet(applicationContext)).addMapping("/*");
+        });
+        webServer.start();
+    }
+}
+```
+
+- 위 코드에서 서블릿 컨테이너를 만들고 서블릿을 등록하는 작업을 스프링 컨테이너가 초기화되는 과정 중에 일어나도록 변경해보자!
+- 스프링 컨테이너의 초기화작업
+  - applicationContext.refresh(); 
+    - 이 코드에서 일어난다 (템플릿 메서드로 만들어져있음)

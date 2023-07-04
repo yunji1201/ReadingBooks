@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a60d1-49b4-449b-9257-a5a94b886e52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toby-boot/4_스프링/img_6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/toby-boot/4_스프링/4_spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/toby-boot/4_스프링/4_spring.md" afterDir="false" />
     </list>
@@ -125,7 +121,8 @@
       <workItem from="1684883375162" duration="6364000" />
       <workItem from="1684970040844" duration="3086000" />
       <workItem from="1685055825683" duration="2833000" />
-      <workItem from="1688080513048" duration="2144000" />
+      <workItem from="1688080513048" duration="2264000" />
+      <workItem from="1688428645345" duration="1327000" />
     </task>
     <servers />
   </component>
