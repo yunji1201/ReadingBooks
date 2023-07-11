@@ -29,11 +29,28 @@
 
 ### project setting
 
+```java
+
+@RestController
+@RequestMapping("/api")
+public class HelloController {
+    @GetMapping("/hello")
+    public ResponseEntity<String> hello() {
+        return ResponseEntity.ok("hello");
+    }
+}
+```
+
 - 일반적인 controller 만들어서 테스트한 결과, 'Unauthorized'가 나온걸 확인하였다
 
   ![img.png](img.png)
 
 ### 1. Security 섫정, Data 설정
+
+- 401 unauthorized 해결을 위한 Security 설정
+- Datasource, JPA 설정
+- Entity 생성
+- H2 Console 결과 확인
 
 ### 2. JWT 코드, Security 설정 추가
 
