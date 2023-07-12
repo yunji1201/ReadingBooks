@@ -52,11 +52,112 @@ public class HelloController {
 - Entity 생성
 - H2 Console 결과 확인
 
+```java
+@Bean
+    public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+        http
+            .authorizeHttpRequests(authorizeHttpRequests -> authorizeHttpRequests
+                .requestMatchers("/api/hello", "/api/authenticate", "/api/signup").permitAll()
+                .requestMatchers(PathRequest.toH2Console()).permitAll()
+                .anyRequest().authenticated()
+            )
+            // enable h2-console
+            .headers(headers ->
+                headers.frameOptions(options ->
+                    options.sameOrigin()
+                )
+            )
+        return http.build();
+    }
+}
+```
+
 ### 2. JWT 코드, Security 설정 추가
+
+- JWT 설정 추가
+- JWT 관련 코드 개발
+
+```java
+// 기본적인 Web 보안을 활성화
+// 추가적인 설정을 위해서 WebSecurityConfigurer를 implements 하거나
+// WebSecurityConfigurerAdapter를 extends 하는 방법도 있음
+// authorizeRequests : HttpServletRequuest를 사용하는 요청들에 대한 접근제한을 설정
+@EnableWebSecurity
+@EnableMethodSecurity
+@Configuration
+public class SecurityConfig {
+    
+    // jwt 디렉토리 안에 만들어 둔 다섯개의 jwt 관련 클래스를 이 SecurityConfig 클래스 안에 적용한다
+    
+    private final TokenProvider tokenProvider;
+    private final CorsFilter corsFilter;
+    private final JwtAuthenticationEntryPoint jwtAuthenticationEntryPoint;
+    private final JwtAccessDeniedHandler jwtAccessDeniedHandler;
+
+    public SecurityConfig(
+        TokenProvider tokenProvider,
+        CorsFilter corsFilter,
+        JwtAuthenticationEntryPoint jwtAuthenticationEntryPoint,
+        JwtAccessDeniedHandler jwtAccessDeniedHandler
+    ) {
+        this.tokenProvider = tokenProvider;
+        this.corsFilter = corsFilter;
+        this.jwtAuthenticationEntryPoint = jwtAuthenticationEntryPoint;
+        this.jwtAccessDeniedHandler = jwtAccessDeniedHandler;
+    }
+
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        return new BCryptPasswordEncoder();
+    }
+
+    @Bean
+    public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+        http
+            // token을 사용하는 방식이기 때문에 csrf를 disable합니다.
+            .csrf(csrf -> csrf.disable())
+
+            .addFilterBefore(corsFilter, UsernamePasswordAuthenticationFilter.class)
+            .exceptionHandling(exceptionHandling -> exceptionHandling
+                .accessDeniedHandler(jwtAccessDeniedHandler) // 내가 만든 handler로 직접 추가
+                .authenticationEntryPoint(jwtAuthenticationEntryPoint) // 내가 만든 handler로 직접 추가
+            )
+
+            .authorizeHttpRequests(authorizeHttpRequests -> authorizeHttpRequests
+                .requestMatchers("/api/hello", "/api/authenticate", "/api/signup").permitAll()
+                .requestMatchers(PathRequest.toH2Console()).permitAll()
+                .anyRequest().authenticated()
+            )
+
+            // 세션을 사용하지 않기 때문에 STATELESS로 설정
+            .sessionManagement(sessionManagement ->
+                sessionManagement.sessionCreationPolicy(SessionCreationPolicy.STATELESS)
+            )
+
+            // enable h2-console
+            .headers(headers ->
+                headers.frameOptions(options ->
+                    options.sameOrigin()
+                )
+            )
+
+            .apply(new JwtSecurityConfig(tokenProvider));
+        // jwtFilter를 addFilterBefore로 등록했던 JwtSecurityCofig 클래스도 적용해주기
+        return http.build();
+    }
+}
+```
 
 ### 3. DTO, Repository, 로그인
 
+- 외부와의 통신에 사용할 DTO 클래스 생성
+- Repository 관련 코드 생성
+- 로그인 API, 관련 로직 생성
+
 ### 4. 회원가입, 권한검증
+
+- 회원가입 API 생성
+- 권한검증 확인
 
 ---
 강의 : [Spring Boot JWT Tutorial](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-jwt/dashboard)
